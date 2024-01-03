@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sell or Sell</string>
+    <string name="homem">Masculino</string>
+    <string name="mulher">Feminino</string>
+    <string name="bebe">Infantil</string>
+    <string name="txt_logo">Sell or Sell</string>
+    <string name="txt_endereco">Av: Emilio Bosco  1855 , Matão, Sumaré - Sp</string>
+    <string name="Descricao">Descrição: Camiseta Polo Masculina MotoHarley Davidson Envio Imediato</string>
+    <string name="preco">R$ 99.99</string>
+    <string name="endereco">Chegará gratis até sexta-feira</string>
+    <string name="btn_nome">Carrinho</string>
+    <string name="fields_messages">Os campos devem ser preenchidos e diferente de zero</string>
+    <string name="imc_severely_low_weight">TAMANHO "P" </string>
+    <string name="imc_very_low_weight">TAMANHO "M" </string>
+    <string name="imc_low_weight">TAMANHO "G"</string>
+    <string name="normal">TAMANHO "GG" </string>
+    <string name="imc_high_weight">TAMANHO "XGG"</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+    <string name="imc_response">Imc: %1$.2f</string>
+
+
+    <string name="calc_saved">Registro salvo com Sucesso</string>
+    <string name="calc_removed">Registro removido com sucesso</string>
+    <string name="search">Buscar</string>
+    <string name="tmb_desc">TMB é o cálculo para descobrir a quantidade calórica que o corpo necessita com base no seu estilo de vida</string>
+    <string name="age">Idade</string>
+    <string name="tmb_response">Tmb: %1$.2f</string>
+
+    <string name="delete_message">Você realmente quer excluir o registro?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="weigth">Peso(kg)</string>
+    <string name="heigth">Altura</string>
+    <string name="tbl_tabela">DADOS</string>
+    <string name="list_response">resultado: %1$.2f, data: %2$s</string>
+
+    <string name="save">Salvar:</string>
+    <string name="saved">Dados salvos com sucesso!:</string>
+</resources>
